@@ -9,4 +9,3 @@ def count_elements(array)
   end
   return results
 end
- 
